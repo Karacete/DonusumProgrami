@@ -1,0 +1,11 @@
+D:\Desktop\ÖDEV\NDP\Ödev\DönüsümProgramiOdev\DönüsümProgramiOdev\bin\Debug\DönüsümProgramiOdev.exe.config
+D:\Desktop\ÖDEV\NDP\Ödev\DönüsümProgramiOdev\DönüsümProgramiOdev\bin\Debug\DönüsümProgramiOdev.exe
+D:\Desktop\ÖDEV\NDP\Ödev\DönüsümProgramiOdev\DönüsümProgramiOdev\bin\Debug\DönüsümProgramiOdev.pdb
+D:\Desktop\ÖDEV\NDP\Ödev\DönüsümProgramiOdev\DönüsümProgramiOdev\obj\Debug\DönüsümProgramiOdev.csproj.AssemblyReference.cache
+D:\Desktop\ÖDEV\NDP\Ödev\DönüsümProgramiOdev\DönüsümProgramiOdev\obj\Debug\DönüsümProgramiOdev.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\ÖDEV\NDP\Ödev\DönüsümProgramiOdev\DönüsümProgramiOdev\obj\Debug\DönüsümProgramiOdev.Form1.resources
+D:\Desktop\ÖDEV\NDP\Ödev\DönüsümProgramiOdev\DönüsümProgramiOdev\obj\Debug\DönüsümProgramiOdev.Properties.Resources.resources
+D:\Desktop\ÖDEV\NDP\Ödev\DönüsümProgramiOdev\DönüsümProgramiOdev\obj\Debug\DönüsümProgramiOdev.csproj.GenerateResource.cache
+D:\Desktop\ÖDEV\NDP\Ödev\DönüsümProgramiOdev\DönüsümProgramiOdev\obj\Debug\DönüsümProgramiOdev.csproj.CoreCompileInputs.cache
+D:\Desktop\ÖDEV\NDP\Ödev\DönüsümProgramiOdev\DönüsümProgramiOdev\obj\Debug\DönüsümProgramiOdev.exe
+D:\Desktop\ÖDEV\NDP\Ödev\DönüsümProgramiOdev\DönüsümProgramiOdev\obj\Debug\DönüsümProgramiOdev.pdb
